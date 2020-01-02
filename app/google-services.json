@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "61871078204",
+    "firebase_url": "https://forum-organisation-app.firebaseio.com",
+    "project_id": "forum-organisation-app",
+    "storage_bucket": "forum-organisation-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61871078204:android:4dbc886176918af6",
+        "android_client_info": {
+          "package_name": "in.tvac.akshayejh.firebasepushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61871078204-eb6le8420t48p6uvgf54fij7hvdenm0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.tvac.akshayejh.firebasepushnotifications",
+            "certificate_hash": "7aaa5cf4a9a610a2b4a66feae13602ce8e7445f1"
+          }
+        },
+        {
+          "client_id": "61871078204-20c4ehvl32on1icu7ofp956e7j3caeuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnUB6hV9lrn-7Z7F00Gn9e3LdbFIu1qSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61871078204-20c4ehvl32on1icu7ofp956e7j3caeuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61871078204:android:760ab6d1f062cbdb",
+        "android_client_info": {
+          "package_name": "org.forumorg.forumapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61871078204-jha3vk62dnnp8ag5lcqdh6s730qp3bqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.forumorg.forumapplication",
+            "certificate_hash": "582f593bc269712f6caad3f86571e1ff70f21c44"
+          }
+        },
+        {
+          "client_id": "61871078204-20c4ehvl32on1icu7ofp956e7j3caeuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnUB6hV9lrn-7Z7F00Gn9e3LdbFIu1qSY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61871078204-20c4ehvl32on1icu7ofp956e7j3caeuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
